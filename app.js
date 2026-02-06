@@ -775,7 +775,7 @@ function resetForm() {
         }
         
         if (map) {
-            const defaultLocation = { lat: 2.5833, lng: 98.7167 };
+            const defaultLocation = { lat: 3.7412, lng: 98.4475 };
             map.panTo(defaultLocation);
             map.setZoom(12);
         }
