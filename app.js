@@ -97,7 +97,7 @@ function initMap() {
     }
     
     // Lokasi default: Samosir
-    const samosirLocation = { lat: 2.5833, lng: 98.7167 };
+    const samosirLocation = { lat: 3.7414, lng: 98.4498 };
     
     try {
         // Buat peta dengan kontrol bawaan Google Maps
