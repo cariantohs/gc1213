@@ -30986,6 +30986,6 @@ const dataUsaha = [
   }
 ];
 // URL Google Apps Script Web App
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycby7rywYM9kXjqn5iItRSNxlI0eVrojoRrT58a06pg1PF6VdkTxOZqoDb8fBMDD2htV1/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyxAScWV2MZhD8Uo54t2hdny9AE7w6KkFdOXQqipzDuQ922PXtoE8PhSn129TzAKRdOtg/exec";
 
 console.log('data.js dimuat, total data:', dataUsaha.length);
